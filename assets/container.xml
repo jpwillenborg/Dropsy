@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="container.png">
+	<!-- Created with Adobe Flash Professional version 14.1.0.96 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="arrow0000" x="886" y="0" width="76" height="212" pivotX="0" pivotY="0"/>
+	<SubTexture name="contact icon0000" x="0" y="212" width="298" height="298" pivotX="0" pivotY="0"/>
+	<SubTexture name="filler0000" x="298" y="212" width="4" height="4" pivotX="0" pivotY="0"/>
+	<SubTexture name="game dot0000" x="302" y="212" width="256" height="256" pivotX="128" pivotY="128"/>
+	<SubTexture name="grad0000" x="558" y="212" width="170" height="4" pivotX="0" pivotY="0"/>
+	<SubTexture name="logo d0000" x="0" y="0" width="155" height="162" pivotX="0" pivotY="0"/>
+	<SubTexture name="logo o0000" x="155" y="0" width="192" height="162" pivotX="0" pivotY="0"/>
+	<SubTexture name="logo p0000" x="347" y="0" width="125" height="162" pivotX="0" pivotY="0"/>
+	<SubTexture name="logo r0000" x="472" y="0" width="143" height="162" pivotX="0" pivotY="0"/>
+	<SubTexture name="logo s0000" x="615" y="0" width="110" height="162" pivotX="0" pivotY="0"/>
+	<SubTexture name="logo y0000" x="725" y="0" width="161" height="162" pivotX="0" pivotY="0"/>
+	<SubTexture name="options dot0000" x="728" y="212" width="168" height="168" pivotX="0" pivotY="0"/>
+	<SubTexture name="options icon0000" x="0" y="510" width="298" height="298" pivotX="0" pivotY="0"/>
+	<SubTexture name="remove icon0000" x="298" y="510" width="298" height="298" pivotX="0" pivotY="0"/>
+	<SubTexture name="remove ring0000" x="596" y="510" width="298" height="298" pivotX="0" pivotY="0"/>
+	<SubTexture name="stats icon0000" x="0" y="808" width="298" height="298" pivotX="0" pivotY="0"/>
+</TextureAtlas>
