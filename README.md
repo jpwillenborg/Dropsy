@@ -8,4 +8,4 @@ APIs include AIR native extensions utilizing in-game purchases, advertising and 
 
 
 
-Copyright 2016 JP Willenborg.
+Copyright 2017 JP Willenborg.
